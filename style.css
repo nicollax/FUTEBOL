@@ -1,0 +1,73 @@
+
+h1{
+text-align: center;
+margin: 40px;
+}
+
+
+h2{
+  text-align: center;
+  color: darkred;
+  margin: 50px;
+  
+}
+
+h3{
+  font-size: 19px;
+}
+
+h4{
+  font-size: 15px;
+}
+
+h6{
+  text-align: center;
+}
+
+
+body { 
+
+  
+  background-color: lightyellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  
+  
+}
+
+p{
+  text-align: center;
+}
+
+
+ 
+
+.img1934{
+  display: inline-block;
+  margin-left: 100px;
+}
+
+.copa1934{
+
+}
+
+.copa1938{
+
+  display: inline-block;
+  margin-right: 100px;
+  
+}
+
+
+.copa1950{
+  display: inline-block;
+  margin-left: 100px;
+
+}
+
+
+.copa1954{
+
+  display: inline-block;
+  margin-right: 100px;
+}
