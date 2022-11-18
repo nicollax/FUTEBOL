@@ -13,11 +13,18 @@ h2{
 }
 
 h3{
-  font-size: 19px;
+  
+  text-align: center;
+  font-size: 21px;
+font-family: 'Times New Roman', Times, serif;
+color: darkgreen;
 }
 
 h4{
-  font-size: 15px;
+  font-size: 25px;
+color: blue
+text cornflowerblue
+ 
 }
 
 h6{
@@ -28,7 +35,7 @@ h6{
 body { 
 
   
-  background-color: lightyellow;
+  background-color: rgb(0, 0, 0);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   
@@ -40,34 +47,8 @@ p{
 }
 
 
- 
-
-.img1934{
+.imgBrasil-1950{
   display: inline-block;
-  margin-left: 100px;
-}
-
-.copa1934{
-
-}
-
-.copa1938{
-
-  display: inline-block;
-  margin-right: 100px;
-  
-}
-
-
-.copa1950{
-  display: inline-block;
-  margin-left: 100px;
-
-}
-
-
-.copa1954{
-
-  display: inline-block;
-  margin-right: 100px;
+  background-color: brown;
+  background-image: -moz-repeating-linear-gradient(pink);
 }
